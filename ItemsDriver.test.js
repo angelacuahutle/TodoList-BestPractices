@@ -15,3 +15,9 @@ let listArr = [];
 test('Creates a new object and appends it to the array and the DOM', () => {
 
 });
+
+describe(InputEvent, ()) => {
+  it('should store items into local Storage', ()) =>{
+  const itemElement   
+  }
+}
